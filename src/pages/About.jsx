@@ -7,7 +7,7 @@ function About() {
 
      <Card
      title="Worked with"
-     text="Components , Routes , useState , Pages"
+     text="Components , Routes , useState , Pages ,Props"
      />
 
       
